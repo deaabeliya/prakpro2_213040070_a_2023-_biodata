@@ -1,0 +1,7 @@
+Dea,1,Perempuan,Karawang
+Nabila,2,Perempuan,Bogor
+Sharen,3,Perempuan,Makassar
+Nadilla,4,Perempuan,Bekasi
+Audi,5,Laki-Laki,Medan
+Viane,6,Perempuan,Cimahi
+Dimas,7,Laki-Laki,Karawang
